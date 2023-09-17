@@ -1,6 +1,7 @@
+import img1 from "./images/back.png";
 export default function Main3() {
   return (
-    <div className="main3">
+    <div className="main3" style={{backgroundImage: `url(${img1})`}}>
       <div class="newslleter">Newslleter</div>
       <div class="get-news-about-articles-and-updates-in-your-inbox">
         <br />

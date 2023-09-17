@@ -1,5 +1,6 @@
 import Nav from "./Navbar";
 import MainTop from "./main-top-container";
+import boy from "./images/boy.png";
 export default function Main() {
   return (
     <div className="main">
@@ -20,7 +21,7 @@ export default function Main() {
       </svg>
       <img
         className="jessica-radanavong-ich-pbhfd-0-pw-unsplash"
-        src="http://127.0.0.1:8080/src/components/boy.png" alt="boys"
+        src={boy} alt="boys"
       />
       <div className="rectangle-29"></div>
       <div className="fresh"> Fresh </div>

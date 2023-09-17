@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   padding: 0;
@@ -578,7 +579,6 @@ body {
   height: 100vh;
   width: 100%;
   color: white;
-  background-image: url("http://127.0.0.1:8080/src/components/18591063 (2).png");
   background-repeat: repeat;
   position: relative;
   /* background-size:auto; */
